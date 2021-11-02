@@ -40,6 +40,9 @@
             "module": "SharedData"
          }
      ],
-     "url": "https://github.com/HulcMizoshita/SharedData",
-     "manifest": "https://raw.githubusercontent.com/HulcMizoshita/SharedData/main/module.json"
+     "download": "https://github.com/HulcMizoshita/SharedData/releases/download/1.0.0/SharedData.zip",
+     "manifest": "https://github.com/HulcMizoshita/SharedData/releases/download/1.0.0/module.json",
+
+
+     "url": "https://github.com/HulcMizoshita/SharedData"
  }
