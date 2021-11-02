@@ -1,0 +1,43 @@
+{
+      "name": "SharedData",
+      "title": "共有データ",
+      "description": "Worldをまたぐ共有データ",
+      "author": "",
+      "version": "1.0.0",
+      "minimumCoreVersion": "0.5.0",
+      "compatibleCoreVersion":"0.7.9",
+      "packs": [
+         {
+            "name": "items",
+            "label": "共有アイテム",
+            "path": "packs/items.db",
+            "entity": "Item",
+            "system": "dnd5e",
+            "module": "SharedData"
+         },
+         {
+            "name": "actors",
+            "label": "共有アクター",
+            "path": "packs/npc.db",
+            "entity": "Actor",
+            "system": "dnd5e",
+            "module": "SharedData"
+        },
+         {
+            "name": "scenes",
+            "label": "共有シーン",
+            "path": "packs/scenes.db",
+            "entity": "Scene",
+            "system": "dnd5e",
+            "module": "SharedData"
+         },
+         {
+            "name": "journals",
+            "label": "共有資料",
+            "path": "packs/journals.db",
+            "entity": "JournalEntry",
+            "system": "dnd5e",
+            "module": "SharedData"
+         }
+     ]
+ }
