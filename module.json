@@ -2,7 +2,7 @@
       "name": "SharedData",
       "title": "共有データ",
       "description": "Worldをまたぐ共有データ",
-      "author": "",
+      "author": "B.B.",
       "version": "1.0.0",
       "minimumCoreVersion": "0.5.0",
       "compatibleCoreVersion":"0.7.9",
@@ -41,5 +41,5 @@
          }
      ],
      "url": "https://github.com/HulcMizoshita/SharedData",
-     "manifest": https://raw.githubusercontent.com/HulcMizoshita/SharedData/main/module.json
+     "manifest": "https://raw.githubusercontent.com/HulcMizoshita/SharedData/main/module.json"
  }
