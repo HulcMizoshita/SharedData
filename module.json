@@ -39,5 +39,7 @@
             "system": "dnd5e",
             "module": "SharedData"
          }
-     ]
+     ],
+     "url": "https://github.com/HulcMizoshita/SharedData",
+     "manifest": https://raw.githubusercontent.com/HulcMizoshita/SharedData/main/module.json
  }
